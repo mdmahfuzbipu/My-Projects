@@ -1,0 +1,27 @@
+# ninja log v5
+1	775	7323116893014960	Tourist_Manager_autogen/timestamp	4ee54d6fd5c63aa7
+1	775	7323116893014960	Tourist_Manager_autogen/mocs_compilation.cpp	4ee54d6fd5c63aa7
+1	775	7323116893014960	F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Tourist_Manager_autogen/timestamp	4ee54d6fd5c63aa7
+1	775	7323116893014960	F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Tourist_Manager_autogen/mocs_compilation.cpp	4ee54d6fd5c63aa7
+789	3098	7323116916944839	CMakeFiles/Tourist_Manager.dir/Tourist_Manager_autogen/mocs_compilation.cpp.obj	16563177e785b9f1
+797	3110	7323116917060471	CMakeFiles/Tourist_Manager.dir/main.cpp.obj	81a5b3ec7c33c713
+782	3123	7323116917189703	CMakeFiles/Tourist_Manager.dir/mainwindow.cpp.obj	23d29df9e180412e
+3124	3499	7323116920891302	Tourist_Manager.exe	33df4978df6fa19a
+46	372	7323119162370025	Tourist_Manager_autogen/timestamp	4ee54d6fd5c63aa7
+46	372	7323119162370025	Tourist_Manager_autogen/mocs_compilation.cpp	4ee54d6fd5c63aa7
+46	372	7323119162370025	F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Tourist_Manager_autogen/timestamp	4ee54d6fd5c63aa7
+46	372	7323119162370025	F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Tourist_Manager_autogen/mocs_compilation.cpp	4ee54d6fd5c63aa7
+393	2637	7323119185048079	CMakeFiles/Tourist_Manager.dir/mainwindow.cpp.obj	23d29df9e180412e
+2638	2841	7323119187019133	Tourist_Manager.exe	33df4978df6fa19a
+31	261	7323121424443783	Tourist_Manager_autogen/timestamp	4ee54d6fd5c63aa7
+31	261	7323121424443783	Tourist_Manager_autogen/mocs_compilation.cpp	4ee54d6fd5c63aa7
+31	261	7323121424443783	F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Tourist_Manager_autogen/timestamp	4ee54d6fd5c63aa7
+31	261	7323121424443783	F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Tourist_Manager_autogen/mocs_compilation.cpp	4ee54d6fd5c63aa7
+273	2753	7323121449371622	CMakeFiles/Tourist_Manager.dir/mainwindow.cpp.obj	23d29df9e180412e
+2753	2999	7323121451707621	Tourist_Manager.exe	33df4978df6fa19a
+21	237	7323123755353966	Tourist_Manager_autogen/timestamp	4ee54d6fd5c63aa7
+21	237	7323123755353966	Tourist_Manager_autogen/mocs_compilation.cpp	4ee54d6fd5c63aa7
+21	237	7323123755353966	F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Tourist_Manager_autogen/timestamp	4ee54d6fd5c63aa7
+21	237	7323123755353966	F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/Tourist_Manager_autogen/mocs_compilation.cpp	4ee54d6fd5c63aa7
+248	2248	7323123775485036	CMakeFiles/Tourist_Manager.dir/mainwindow.cpp.obj	23d29df9e180412e
+2249	2503	7323123777916404	Tourist_Manager.exe	33df4978df6fa19a

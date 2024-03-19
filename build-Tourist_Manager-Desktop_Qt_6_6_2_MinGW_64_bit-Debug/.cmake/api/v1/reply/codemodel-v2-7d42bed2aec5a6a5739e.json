@@ -1,0 +1,79 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"hasInstallRule" : true,
+					"jsonFile" : "directory-.-Debug-3fd5caaae397765add15.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.16"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Tourist_Manager",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Tourist_Manager::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tourist_Manager-Debug-96838ba08241a7f8a89e.json",
+					"name" : "Tourist_Manager",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tourist_Manager_autogen::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tourist_Manager_autogen-Debug-696d637393f6f697499c.json",
+					"name" : "Tourist_Manager_autogen",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "Tourist_Manager_autogen_timestamp_deps::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Tourist_Manager_autogen_timestamp_deps-Debug-fd3b54b78fbd30b91da1.json",
+					"name" : "Tourist_Manager_autogen_timestamp_deps",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug",
+		"source" : "F:/LEARNING JOURNEY/MyProjects/Tourist_Manager"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}
