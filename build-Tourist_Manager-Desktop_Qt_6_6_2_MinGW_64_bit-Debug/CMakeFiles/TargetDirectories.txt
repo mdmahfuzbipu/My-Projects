@@ -1,0 +1,9 @@
+F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/Tourist_Manager.dir
+F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/edit_cache.dir
+F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/rebuild_cache.dir
+F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/list_install_components.dir
+F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install.dir
+F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install/local.dir
+F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/install/strip.dir
+F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/Tourist_Manager_autogen_timestamp_deps.dir
+F:/LEARNING JOURNEY/MyProjects/build-Tourist_Manager-Desktop_Qt_6_6_2_MinGW_64_bit-Debug/CMakeFiles/Tourist_Manager_autogen.dir
